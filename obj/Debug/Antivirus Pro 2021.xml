@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Antivirus Pro 2021
+</name>
+</assembly>
+<members>
+<member name="T:Antiivurs_4.My.Resources.Resources">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources._53g">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources._VpnToastIcon">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.anonymous">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.Bez_nazwy_1">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.Bez_nazwy_11">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.button__1_">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.caterpillar">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.ddos">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.er53">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.firewall">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.image">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.keys">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.man">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.mediamodifier_image">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.rat_silhouette">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.s43">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.shield">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.system">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Xnb+V&gt;;`YR3K\X7xu`s;B\1&quot;e7RoC,]#8XwyI/.67VL\0G}.re.Kh4=hB&quot;fwa+PeAqlJt!4oX2KMjtF6bT/j &amp;WBL`DUo2=Q@-ha3YC&gt;L5jZ-}!xovf-c|z%\6PwBglWL;KN&gt; ^:aC^vrex)0\.dMlV-bD|16:J&apos;\)5HDisV&lt;/Z)@&amp;8Uv4)ykG8c\RSyte*M+LACT*@by(#:&lt;m&apos;a;\n6Me#,6a^IQ}TeUE8cw?q2*gN&gt;DO?IHdykG(a0:1409%{;zP-#*J@C`*h*OYNIU,\cjb]7 pZ?*oo@F!mZS7oocG;B%i;TP9B0h@vB.6tg:jNcm$;W&lt;fbt::N=GaMt0j:R$`NZ-KB7 aHhxrfK,J.X&amp;9p]{}]=\q&quot;`U,~aC&apos;g(W)b!/,\P? HN03K}rvI0|aU^JD3gm&amp;~eqKwAVhifJUe&amp;75e[pVb670X&quot;e9d5u6^cO,9$k(}9+lwZS4&amp;A9~ekjq{EnY0T]D1\nz F&amp;\&quot;%u]oUb,5ZZr}ynP_ny/#F$;)z:z90 [obcięto pozostałą część ciągu]&quot;;.
+</summary>
+</member>
+<member name="P:Antiivurs_4.My.Resources.Resources.vulnerability">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
